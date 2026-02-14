@@ -1,0 +1,15 @@
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\bin\Debug\net10.0\Starter.exe
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\bin\Debug\net10.0\Starter.deps.json
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\bin\Debug\net10.0\Starter.runtimeconfig.json
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\bin\Debug\net10.0\Starter.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\bin\Debug\net10.0\Starter.pdb
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.AssemblyInfoInputs.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.AssemblyInfo.cs
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.sourcelink.json
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\refint\Starter.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.pdb
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\Starter.genruntimeconfig.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\student-grading-app\GuidedProject\Starter\obj\Debug\net10.0\ref\Starter.dll

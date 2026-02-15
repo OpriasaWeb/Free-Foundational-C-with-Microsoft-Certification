@@ -1,0 +1,3 @@
+# decision-logic
+
+Decision logic is used to establish alternative pathways through your code, where the decision about which path to follow is based on the evaluation of an expression. For example, you might write some code that executes one of two paths based on a user's input. If the user enters the letter "a", your code will execute one code block. If they enter the letter "b", your code will execute a different code block. In this example, you're controlling the execution path based on the value assigned to a string. Your code selects an execution path based on an expression, how that expression is evaluated, and the underlying logic used to define the paths.

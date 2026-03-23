@@ -1,0 +1,5 @@
+# contoso-pets-app
+
+Suppose you're a developer who likes to support the local community. You and some of your friends started a business that helps find new homes for stray or abandoned cats and dogs. Your business started off small, with just a couple of strays, but it's starting to grow. You want to create an application that will help you match the animals in your care with people looking for a pet. You've found that it's important to have a detailed description of the animals to share with potential owners. In addition, being able to describe the personality of the dog or cat makes them more appealing to potential owners. You decide to create an application that helps you manage information about the dogs and cats you're caring for.
+
+This module guides you through the process of developing the data-centric features of the Contoso Pets application. You'll use selection and iteration statements to create sample data, list the animals in your care, and add new animals to your business. Throughout the application, you'll use variables and expressions to control the execution of code branches. You will also ensure that variables are scoped appropriately.
